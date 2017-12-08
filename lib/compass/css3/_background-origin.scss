@@ -1,5 +1,5 @@
 // Background Origin
-@import "compass/support";
+@import "../support";
 
 // The the user threshold for background-origin support. Defaults to `$critical-usage-threshold`
 $background-origin-threshold: $critical-usage-threshold !default;

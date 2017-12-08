@@ -1,4 +1,4 @@
-@import "compass/support";
+@import "../support";
 
 // The the user threshold for transition support. Defaults to `$graceful-usage-threshold`
 $transition-support-threshold: $graceful-usage-threshold !default;

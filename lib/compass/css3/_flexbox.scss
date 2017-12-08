@@ -50,7 +50,7 @@
 //       flex-direction: column;
 //     }
 
-@import "compass/support";
+@import "../support";
 
 $flexbox-support-threshold: $critical-usage-threshold !default;
 

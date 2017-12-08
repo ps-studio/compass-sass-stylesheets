@@ -1,4 +1,4 @@
-@import "compass/support";
+@import "../../support";
 
 @mixin outer-table-borders($width: 2px, $color: black) {
   border: $width solid $color;

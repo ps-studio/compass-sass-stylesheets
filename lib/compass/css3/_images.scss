@@ -1,5 +1,5 @@
-@import "compass/support";
-@import "compass/utilities/general/hacks";
+@import "../support";
+@import "../utilities/general/hacks";
 
 $gradient-support-threshold: $graceful-usage-threshold !default;
 $svg-gradient-shim-threshold: $graceful-usage-threshold !default;

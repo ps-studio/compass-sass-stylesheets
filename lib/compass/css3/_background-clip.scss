@@ -1,5 +1,5 @@
 // Background Clip
-@import "compass/support";
+@import "../support";
 
 // The the user threshold for background-clip support. Defaults to `$critical-usage-threshold`
 $background-clip-support-threshold: $critical-usage-threshold !default;
